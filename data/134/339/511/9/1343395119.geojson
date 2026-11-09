@@ -55,7 +55,7 @@
         "wk:page":"Vukpalaj"
     },
     "wof:country":"AL",
-    "wof:geomhash":"07ef33757d08899055ad61e0d69fa87c",
+    "wof:geomhash":"fe923a3417bb9e7b8f6870d32fd32829",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.45222,
     42.31639000000001
 ],
-  "geometry": {"coordinates":[19.45222,42.31639000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.45222,42.31639],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Karpen"
     },
     "wof:country":"AL",
-    "wof:geomhash":"08f7addc10ad739eff60691f6a881eca",
+    "wof:geomhash":"4a2b081e83dea9ec28d4b08f1a0486ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.48867000000001,
     41.17433
 ],
-  "geometry": {"coordinates":[19.48867000000001,41.17433],"type":"Point"}
+  "geometry": {"coordinates":[19.48867,41.17433],"type":"Point"}
 }

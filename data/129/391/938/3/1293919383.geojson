@@ -50,7 +50,7 @@
         "wk:page":"Bamatat"
     },
     "wof:country":"AL",
-    "wof:geomhash":"12e9bd3532f874ed82eda23ff445c590",
+    "wof:geomhash":"2fcf441aea5c3c84d0bbbb6198aec24c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     20.06389,
     39.93944000000001
 ],
-  "geometry": {"coordinates":[20.06389,39.93944000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.06389,39.93944],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Kolonj%C3%AB%2C_Gjirokast%C3%ABr"
     },
     "wof:country":"AL",
-    "wof:geomhash":"2abdba3a5e0304324483a5a0df39e459",
+    "wof:geomhash":"fb814ec6418aff2e434d0272ae980eb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     20.01222000000001,
     40.16139
 ],
-  "geometry": {"coordinates":[20.01222000000001,40.16139],"type":"Point"}
+  "geometry": {"coordinates":[20.01222,40.16139],"type":"Point"}
 }

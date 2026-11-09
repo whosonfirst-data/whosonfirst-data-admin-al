@@ -52,7 +52,7 @@
         "wk:page":"Prisk%C3%AB_e_Madhe"
     },
     "wof:country":"AL",
-    "wof:geomhash":"40154c346881005036d872678b7bd2b1",
+    "wof:geomhash":"0876265daeb40b5d6bbbefc3222495b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.92917000000001,
     41.31917
 ],
-  "geometry": {"coordinates":[19.92917000000001,41.31917],"type":"Point"}
+  "geometry": {"coordinates":[19.92917,41.31917],"type":"Point"}
 }

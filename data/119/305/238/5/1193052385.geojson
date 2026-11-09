@@ -50,7 +50,7 @@
         "wk:page":"Gradec%2C_Shkod%C3%ABr"
     },
     "wof:country":"AL",
-    "wof:geomhash":"967ec2ea44e5ccdfee66630d182ed007",
+    "wof:geomhash":"658932cac0746cd868f6b13df8732fe0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     19.47722000000001,
     42.25
 ],
-  "geometry": {"coordinates":[19.47722000000001,42.25],"type":"Point"}
+  "geometry": {"coordinates":[19.47722,42.25],"type":"Point"}
 }

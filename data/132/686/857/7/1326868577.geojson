@@ -74,7 +74,7 @@
         "wk:page":"V%C3%ABrtop"
     },
     "wof:country":"AL",
-    "wof:geomhash":"c7472fa301b8a6ef3c0ee9dcf049cc47",
+    "wof:geomhash":"2a3a8e044939c566bf31b3324f9b8a60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     20.05389,
     40.62889000000001
 ],
-  "geometry": {"coordinates":[20.05389,40.62889000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.05389,40.62889],"type":"Point"}
 }

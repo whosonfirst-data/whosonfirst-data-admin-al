@@ -54,7 +54,7 @@
         "wk:page":"Bra%C3%A7anj"
     },
     "wof:country":"AL",
-    "wof:geomhash":"281a71d7386ed6a9e1e0f5f6ca448aa5",
+    "wof:geomhash":"58c5c1f392ef16edc174a16c2cf01eb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     20.97722000000001,
     40.55
 ],
-  "geometry": {"coordinates":[20.97722000000001,40.55],"type":"Point"}
+  "geometry": {"coordinates":[20.97722,40.55],"type":"Point"}
 }

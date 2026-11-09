@@ -51,7 +51,7 @@
         "wk:page":"Prisht%C3%AB"
     },
     "wof:country":"AL",
-    "wof:geomhash":"747d4a04f5b5d35aa5c0b3ceef74f047",
+    "wof:geomhash":"85de60baff58a73ec18667048424a08b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     20.22722000000001,
     40.43278
 ],
-  "geometry": {"coordinates":[20.22722000000001,40.43278],"type":"Point"}
+  "geometry": {"coordinates":[20.22722,40.43278],"type":"Point"}
 }

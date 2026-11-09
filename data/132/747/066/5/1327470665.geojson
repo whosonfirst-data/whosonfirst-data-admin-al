@@ -81,7 +81,7 @@
         "wk:page":"Xhafzotaj"
     },
     "wof:country":"AL",
-    "wof:geomhash":"435fb927c330f580755d83a0ce399123",
+    "wof:geomhash":"4eb30eb8119a6f394f23abe6ffc53c37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     19.5475,
     41.34444000000001
 ],
-  "geometry": {"coordinates":[19.5475,41.34444000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.5475,41.34444],"type":"Point"}
 }

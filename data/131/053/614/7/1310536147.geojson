@@ -101,7 +101,7 @@
         "wk:page":"Krum%C3%AB"
     },
     "wof:country":"AL",
-    "wof:geomhash":"0b526a3fad3074987f8e152a9f18ead9",
+    "wof:geomhash":"9fdce2835faef9e9e5d64af86bcd3a65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,5 +127,5 @@
     20.41333,
     42.19694000000001
 ],
-  "geometry": {"coordinates":[20.41333,42.19694000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.41333,42.19694],"type":"Point"}
 }

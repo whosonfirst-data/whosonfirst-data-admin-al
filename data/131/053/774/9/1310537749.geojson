@@ -49,7 +49,7 @@
         "wk:page":"Erind"
     },
     "wof:country":"AL",
-    "wof:geomhash":"68c5ecbf0be3d9d746694129355f55d5",
+    "wof:geomhash":"d1f77a6d1eecedbda4c364670635921c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     20.16361,
     40.15694000000001
 ],
-  "geometry": {"coordinates":[20.16361,40.15694000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.16361,40.15694],"type":"Point"}
 }

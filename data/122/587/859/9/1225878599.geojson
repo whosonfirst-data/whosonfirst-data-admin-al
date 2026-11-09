@@ -73,7 +73,7 @@
         "wk:page":"Hysgjokaj"
     },
     "wof:country":"AL",
-    "wof:geomhash":"1ad25bf573814150e993157ebf8462e9",
+    "wof:geomhash":"57604a773be6166e18881427cec9030e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     19.78972000000001,
     40.97167
 ],
-  "geometry": {"coordinates":[19.78972000000001,40.97167],"type":"Point"}
+  "geometry": {"coordinates":[19.78972,40.97167],"type":"Point"}
 }

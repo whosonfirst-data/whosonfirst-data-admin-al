@@ -49,7 +49,7 @@
         "wk:page":"Ur%C3%AB"
     },
     "wof:country":"AL",
-    "wof:geomhash":"17d20e9d76475f6c4d37b02ca0f627be",
+    "wof:geomhash":"fbfa697b47824f27250b77b37e52712f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     20.10806,
     41.31639000000001
 ],
-  "geometry": {"coordinates":[20.10806,41.31639000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.10806,41.31639],"type":"Point"}
 }

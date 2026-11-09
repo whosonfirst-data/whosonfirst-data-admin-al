@@ -52,7 +52,7 @@
         "wk:page":"Baban%2C_Albania"
     },
     "wof:country":"AL",
-    "wof:geomhash":"ac70775405f5e9d740abba3380a9e7b9",
+    "wof:geomhash":"b59418fa978f674c0544ceb9aed6163f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.91972,
     40.63444000000001
 ],
-  "geometry": {"coordinates":[20.91972,40.63444000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.91972,40.63444],"type":"Point"}
 }

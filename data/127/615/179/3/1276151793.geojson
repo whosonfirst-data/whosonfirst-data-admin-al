@@ -50,7 +50,7 @@
         "wk:page":"Darragjat"
     },
     "wof:country":"AL",
-    "wof:geomhash":"3ec4b315481444b2b9ded5c54b39d5aa",
+    "wof:geomhash":"691793406e2629b05c12293e184f359e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     19.45,
     42.0
 ],
-  "geometry": {"coordinates":[19.45,42.0],"type":"Point"}
+  "geometry": {"coordinates":[19.45,42],"type":"Point"}
 }

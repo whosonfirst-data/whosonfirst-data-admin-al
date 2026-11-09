@@ -56,7 +56,7 @@
         "wk:page":"Ku%C3%A7%2C_Vlor%C3%AB"
     },
     "wof:country":"AL",
-    "wof:geomhash":"2919a6af6c0d031ff3cd352e0c6d3f6e",
+    "wof:geomhash":"cf91566ad66fb3abc5cd55c57854025b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     19.83917000000001,
     40.17444
 ],
-  "geometry": {"coordinates":[19.83917000000001,40.17444],"type":"Point"}
+  "geometry": {"coordinates":[19.83917,40.17444],"type":"Point"}
 }

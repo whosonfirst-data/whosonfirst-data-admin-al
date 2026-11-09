@@ -54,7 +54,7 @@
         "gn:id":3184766
     },
     "wof:country":"AL",
-    "wof:geomhash":"24459a09f846248a99849d6c90a18245",
+    "wof:geomhash":"ee69b254661d04eef2688b4cb9b7d58d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     19.6775,
     41.35639000000001
 ],
-  "geometry": {"coordinates":[19.6775,41.35639000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.6775,41.35639],"type":"Point"}
 }

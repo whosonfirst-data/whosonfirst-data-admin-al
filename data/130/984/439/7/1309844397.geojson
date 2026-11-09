@@ -62,7 +62,7 @@
         "wk:page":"Zab%C3%ABrzan"
     },
     "wof:country":"AL",
-    "wof:geomhash":"32cde97312f56ebb8674d95fb6e0b635",
+    "wof:geomhash":"199ed40421d3b48154be8c575844510c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.26917000000001,
     40.42778
 ],
-  "geometry": {"coordinates":[20.26917000000001,40.42778],"type":"Point"}
+  "geometry": {"coordinates":[20.26917,40.42778],"type":"Point"}
 }

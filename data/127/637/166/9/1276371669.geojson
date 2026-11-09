@@ -52,7 +52,7 @@
         "wk:page":"Blush%2C_Albania"
     },
     "wof:country":"AL",
-    "wof:geomhash":"cee757b60b943718e9c9ca1cc6c77810",
+    "wof:geomhash":"aad803fae6d54d3b817de3f4ef5d9376",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.60972000000001,
     40.40083
 ],
-  "geometry": {"coordinates":[20.60972000000001,40.40083],"type":"Point"}
+  "geometry": {"coordinates":[20.60972,40.40083],"type":"Point"}
 }

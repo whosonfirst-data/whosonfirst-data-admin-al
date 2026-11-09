@@ -50,7 +50,7 @@
         "wk:page":"Krushov%C3%AB"
     },
     "wof:country":"AL",
-    "wof:geomhash":"86a0148e07baf71e198ef551cf0a933e",
+    "wof:geomhash":"45456862c678b28bcf06432e25cc5dc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     20.37028,
     40.56444000000001
 ],
-  "geometry": {"coordinates":[20.37028,40.56444000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.37028,40.56444],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Gjorm"
     },
     "wof:country":"AL",
-    "wof:geomhash":"aceae233065a1148172ba2fc7e745022",
+    "wof:geomhash":"88e1c5ab5e28fa9e168b1c3ffa0f04ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.64417000000001,
     40.31639000000001
 ],
-  "geometry": {"coordinates":[19.64417000000001,40.31639000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.64417,40.31639],"type":"Point"}
 }

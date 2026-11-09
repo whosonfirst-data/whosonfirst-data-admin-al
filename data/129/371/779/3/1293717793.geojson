@@ -57,7 +57,7 @@
         "wk:page":"Goranxi"
     },
     "wof:country":"AL",
-    "wof:geomhash":"9d47c199f49f54011f56f08c0f0b15e9",
+    "wof:geomhash":"b0130c617b21afb8a707f5f44538e33a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     20.18917,
     40.01694000000001
 ],
-  "geometry": {"coordinates":[20.18917,40.01694000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.18917,40.01694],"type":"Point"}
 }

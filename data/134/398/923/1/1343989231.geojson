@@ -76,7 +76,7 @@
         "wk:page":"Remas"
     },
     "wof:country":"AL",
-    "wof:geomhash":"7e24e032639ba5160d39388bf8024c4e",
+    "wof:geomhash":"98d2c6495707abd58c8334014ba95851",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     19.51139,
     40.88639000000001
 ],
-  "geometry": {"coordinates":[19.51139,40.88639000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.51139,40.88639],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Banaj"
     },
     "wof:country":"AL",
-    "wof:geomhash":"50e5f3a68c199bd3ad1049457525db24",
+    "wof:geomhash":"a473604149fcc081b5901744567227a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     19.83917000000001,
     40.82472
 ],
-  "geometry": {"coordinates":[19.83917000000001,40.82472],"type":"Point"}
+  "geometry": {"coordinates":[19.83917,40.82472],"type":"Point"}
 }

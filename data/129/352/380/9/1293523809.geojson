@@ -72,7 +72,7 @@
         "wk:page":"Libonik"
     },
     "wof:country":"AL",
-    "wof:geomhash":"82b82b79fc4754f638feb3d6f788508e",
+    "wof:geomhash":"2ec9e4ec57f87fdef9a4f935a4d16044",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     20.70861,
     40.70444000000001
 ],
-  "geometry": {"coordinates":[20.70861,40.70444000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.70861,40.70444],"type":"Point"}
 }

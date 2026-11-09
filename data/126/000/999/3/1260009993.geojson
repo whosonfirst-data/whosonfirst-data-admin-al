@@ -73,7 +73,7 @@
         "wk:page":"Tuminec"
     },
     "wof:country":"AL",
-    "wof:geomhash":"b4834d490b2fdcdcb2d397f0bfd13580",
+    "wof:geomhash":"5db01909f0f9f48cc42d62feba36e194",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     20.93917,
     40.89944000000001
 ],
-  "geometry": {"coordinates":[20.93917,40.89944000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.93917,40.89944],"type":"Point"}
 }
