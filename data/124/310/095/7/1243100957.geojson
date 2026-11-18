@@ -92,12 +92,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Babine"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5df4\u5bbe\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5df4\u8cd3\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -121,7 +115,7 @@
         }
     ],
     "wof:id":1243100957,
-    "wof:lastmodified":1636495658,
+    "wof:lastmodified":1794999722,
     "wof:name":"Babine",
     "wof:parent_id":421200781,
     "wof:placetype":"locality",
