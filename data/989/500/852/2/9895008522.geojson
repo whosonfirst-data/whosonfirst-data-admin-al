@@ -1,0 +1,74 @@
+{
+  "id": 9895008522,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.51519,42.06712,19.51519,42.06712",
+    "geom:latitude":42.06712,
+    "geom:longitude":19.51519,
+    "iso:country":"AL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11812038: name \"Diocese of Shkod\u00ebr\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11812038"
+        },
+        {
+            "citation":"GeoNames populated place 11812038: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11812038"
+        },
+        {
+            "citation":"GeoNames populated place 11812038: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11812038"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421167927 (Shkod\u00ebr), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405,
+        85667793,
+        102191581,
+        421167927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11812038
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"18efc31d628a028736b9da0a10b930bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421167927,
+            "locality_id":9895008522,
+            "region_id":85667793
+        }
+    ],
+    "wof:id":9895008522,
+    "wof:lastmodified":1795735136,
+    "wof:name":"Diocese of Shkod\u00ebr",
+    "wof:parent_id":421167927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.51519,
+    42.06712,
+    19.51519,
+    42.06712
+],
+  "geometry": {"coordinates":[19.51519,42.06712],"type":"Point"}
+}

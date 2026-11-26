@@ -1,0 +1,74 @@
+{
+  "id": 9895008528,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.56562,40.2559,19.56562,40.2559",
+    "geom:latitude":40.2559,
+    "geom:longitude":19.56562,
+    "iso:country":"AL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12017869: name \"Solirani\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12017869"
+        },
+        {
+            "citation":"GeoNames populated place 12017869: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12017869"
+        },
+        {
+            "citation":"GeoNames populated place 12017869: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12017869"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421193353 (Vlor\u00eb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405,
+        85667801,
+        102191581,
+        421193353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12017869
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"29d5428bb20d0b44d6f247e7d34b2ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421193353,
+            "locality_id":9895008528,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":9895008528,
+    "wof:lastmodified":1795735136,
+    "wof:name":"Solirani",
+    "wof:parent_id":421193353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.56562,
+    40.2559,
+    19.56562,
+    40.2559
+],
+  "geometry": {"coordinates":[19.56562,40.2559],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895008531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.61886,40.39358,19.61886,40.39358",
+    "geom:latitude":40.39358,
+    "geom:longitude":19.61886,
+    "iso:country":"AL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12018805: name \"Kondaj\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12018805"
+        },
+        {
+            "citation":"GeoNames populated place 12018805: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12018805"
+        },
+        {
+            "citation":"GeoNames populated place 12018805: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12018805"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720903 (Selenic\u00eb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405,
+        85667801,
+        102191581,
+        1108720903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12018805
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"45109d6526e5e25a98819c46e55e36a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720903,
+            "locality_id":9895008531,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":9895008531,
+    "wof:lastmodified":1795735136,
+    "wof:name":"Kondaj",
+    "wof:parent_id":1108720903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.61886,
+    40.39358,
+    19.61886,
+    40.39358
+],
+  "geometry": {"coordinates":[19.61886,40.39358],"type":"Point"}
+}

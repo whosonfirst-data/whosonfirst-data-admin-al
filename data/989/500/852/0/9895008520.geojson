@@ -1,0 +1,74 @@
+{
+  "id": 9895008520,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.88194,40.975,19.88194,40.975",
+    "geom:latitude":40.975,
+    "geom:longitude":19.88194,
+    "iso:country":"AL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3186093: name \"Belsh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3186093"
+        },
+        {
+            "citation":"GeoNames populated place 3186093: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3186093"
+        },
+        {
+            "citation":"GeoNames populated place 3186093: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3186093"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720847 (Belsh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405,
+        85667815,
+        102191581,
+        1108720847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186093
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"d142871ebbe9b4f60466e9d314c5a9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720847,
+            "locality_id":9895008520,
+            "region_id":85667815
+        }
+    ],
+    "wof:id":9895008520,
+    "wof:lastmodified":1795735136,
+    "wof:name":"Belsh",
+    "wof:parent_id":1108720847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.88194,
+    40.975,
+    19.88194,
+    40.975
+],
+  "geometry": {"coordinates":[19.88194,40.975],"type":"Point"}
+}

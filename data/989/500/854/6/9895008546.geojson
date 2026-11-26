@@ -1,0 +1,75 @@
+{
+  "id": 9895008546,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23419,40.5082,20.23419,40.5082",
+    "geom:latitude":40.5082,
+    "geom:longitude":20.23419,
+    "gn:population":2545,
+    "iso:country":"AL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264710: name \"Qend\u00ebr Skrapar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264710"
+        },
+        {
+            "citation":"GeoNames populated place 13264710: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264710"
+        },
+        {
+            "citation":"GeoNames populated place 13264710: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264710"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421194959 (Skrapar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405,
+        85667811,
+        102191581,
+        421194959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264710
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"4796718e9d7ee0f82984b221d34d71d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421194959,
+            "locality_id":9895008546,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":9895008546,
+    "wof:lastmodified":1795735136,
+    "wof:name":"Qend\u00ebr Skrapar",
+    "wof:parent_id":421194959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23419,
+    40.5082,
+    20.23419,
+    40.5082
+],
+  "geometry": {"coordinates":[20.23419,40.5082],"type":"Point"}
+}

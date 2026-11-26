@@ -1,0 +1,74 @@
+{
+  "id": 9895008547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.84843,40.82257,19.84843,40.82257",
+    "geom:latitude":40.82257,
+    "geom:longitude":19.84843,
+    "iso:country":"AL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13445499: name \"Ferras Kozarja\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13445499"
+        },
+        {
+            "citation":"GeoNames populated place 13445499: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13445499"
+        },
+        {
+            "citation":"GeoNames populated place 13445499: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13445499"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720907 (Ura Vajgurore), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405,
+        85667811,
+        102191581,
+        1108720907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13445499
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"de7678c4f0faccfb80f41bdbea798ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720907,
+            "locality_id":9895008547,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":9895008547,
+    "wof:lastmodified":1795735136,
+    "wof:name":"Ferras Kozarja",
+    "wof:parent_id":1108720907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.84843,
+    40.82257,
+    19.84843,
+    40.82257
+],
+  "geometry": {"coordinates":[19.84843,40.82257],"type":"Point"}
+}

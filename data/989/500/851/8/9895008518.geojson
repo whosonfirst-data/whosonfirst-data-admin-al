@@ -1,0 +1,75 @@
+{
+  "id": 9895008518,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.61944,40.68333,19.61944,40.68333",
+    "geom:latitude":40.68333,
+    "geom:longitude":19.61944,
+    "gn:population":16000,
+    "iso:country":"AL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3184518: name \"Patos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3184518"
+        },
+        {
+            "citation":"GeoNames populated place 3184518: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3184518"
+        },
+        {
+            "citation":"GeoNames populated place 3184518: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3184518"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720887 (Patos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405,
+        85667789,
+        102191581,
+        1108720887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3184518
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"01236214e8a1d05e85757dcbea6aa76d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720887,
+            "locality_id":9895008518,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":9895008518,
+    "wof:lastmodified":1795735136,
+    "wof:name":"Patos",
+    "wof:parent_id":1108720887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.61944,
+    40.68333,
+    19.61944,
+    40.68333
+],
+  "geometry": {"coordinates":[19.61944,40.68333],"type":"Point"}
+}
