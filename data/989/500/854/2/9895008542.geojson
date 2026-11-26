@@ -1,0 +1,75 @@
+{
+  "id": 9895008542,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82107,40.69559,19.82107,40.69559",
+    "geom:latitude":40.69559,
+    "geom:longitude":19.82107,
+    "gn:population":307,
+    "iso:country":"AL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12500764: name \"\u00c7et\u00eb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12500764"
+        },
+        {
+            "citation":"GeoNames populated place 12500764: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12500764"
+        },
+        {
+            "citation":"GeoNames populated place 12500764: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12500764"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720907 (Ura Vajgurore), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405,
+        85667811,
+        102191581,
+        1108720907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12500764
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"ceab506bdd0453689edb88cdd4d85c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720907,
+            "locality_id":9895008542,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":9895008542,
+    "wof:lastmodified":1795735136,
+    "wof:name":"\u00c7et\u00eb",
+    "wof:parent_id":1108720907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82107,
+    40.69559,
+    19.82107,
+    40.69559
+],
+  "geometry": {"coordinates":[19.82107,40.69559],"type":"Point"}
+}

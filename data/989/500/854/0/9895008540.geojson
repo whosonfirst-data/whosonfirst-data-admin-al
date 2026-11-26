@@ -1,0 +1,74 @@
+{
+  "id": 9895008540,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.4306,41.32106,19.4306,41.32106",
+    "geom:latitude":41.32106,
+    "geom:longitude":19.4306,
+    "iso:country":"AL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12045603: name \"Currilat\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12045603"
+        },
+        {
+            "citation":"GeoNames populated place 12045603: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12045603"
+        },
+        {
+            "citation":"GeoNames populated place 12045603: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12045603"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421187433 (Durr\u00ebs), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405,
+        85667783,
+        102191581,
+        421187433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12045603
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"43090655c40950325b670589dd5d1282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187433,
+            "locality_id":9895008540,
+            "region_id":85667783
+        }
+    ],
+    "wof:id":9895008540,
+    "wof:lastmodified":1795735136,
+    "wof:name":"Currilat",
+    "wof:parent_id":421187433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.4306,
+    41.32106,
+    19.4306,
+    41.32106
+],
+  "geometry": {"coordinates":[19.4306,41.32106],"type":"Point"}
+}

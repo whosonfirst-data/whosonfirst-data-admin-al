@@ -1,0 +1,74 @@
+{
+  "id": 9895008537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.55858,40.76806,19.55858,40.76806",
+    "geom:latitude":40.76806,
+    "geom:longitude":19.55858,
+    "iso:country":"AL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12038165: name \"Rrapi i Gresallis\u00eb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12038165"
+        },
+        {
+            "citation":"GeoNames populated place 12038165: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12038165"
+        },
+        {
+            "citation":"GeoNames populated place 12038165: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12038165"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421187687 (Fier), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405,
+        85667789,
+        102191581,
+        421187687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12038165
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"e567d90e557f27160e25ccc0588fe308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187687,
+            "locality_id":9895008537,
+            "region_id":85667789
+        }
+    ],
+    "wof:id":9895008537,
+    "wof:lastmodified":1795735136,
+    "wof:name":"Rrapi i Gresallis\u00eb",
+    "wof:parent_id":421187687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.55858,
+    40.76806,
+    19.55858,
+    40.76806
+],
+  "geometry": {"coordinates":[19.55858,40.76806],"type":"Point"}
+}

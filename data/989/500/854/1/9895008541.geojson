@@ -1,0 +1,75 @@
+{
+  "id": 9895008541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.02975,40.74289,20.02975,40.74289",
+    "geom:latitude":40.74289,
+    "geom:longitude":20.02975,
+    "gn:population":99,
+    "iso:country":"AL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12500699: name \"Roshnik i Vog\u00ebl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12500699"
+        },
+        {
+            "citation":"GeoNames populated place 12500699: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12500699"
+        },
+        {
+            "citation":"GeoNames populated place 12500699: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12500699"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421187685 (Berat), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405,
+        85667811,
+        102191581,
+        421187685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12500699
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"32ee252e862e878898f832ff49413f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421187685,
+            "locality_id":9895008541,
+            "region_id":85667811
+        }
+    ],
+    "wof:id":9895008541,
+    "wof:lastmodified":1795735136,
+    "wof:name":"Roshnik i Vog\u00ebl",
+    "wof:parent_id":421187685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.02975,
+    40.74289,
+    20.02975,
+    40.74289
+],
+  "geometry": {"coordinates":[20.02975,40.74289],"type":"Point"}
+}

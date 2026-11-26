@@ -1,0 +1,75 @@
+{
+  "id": 9895008521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.95917,41.42167,19.95917,41.42167",
+    "geom:latitude":41.42167,
+    "geom:longitude":19.95917,
+    "gn:population":5,
+    "iso:country":"AL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3316651: name \"Marice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3316651"
+        },
+        {
+            "citation":"GeoNames populated place 3316651: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3316651"
+        },
+        {
+            "citation":"GeoNames populated place 3316651: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3316651"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421182353 (Tiran\u00eb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405,
+        102191581,
+        421182353,
+        1108803089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316651
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"55283670af29ae97470c617cdd527a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":421182353,
+            "locality_id":9895008521,
+            "region_id":1108803089
+        }
+    ],
+    "wof:id":9895008521,
+    "wof:lastmodified":1795735136,
+    "wof:name":"Marice",
+    "wof:parent_id":421182353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.95917,
+    41.42167,
+    19.95917,
+    41.42167
+],
+  "geometry": {"coordinates":[19.95917,41.42167],"type":"Point"}
+}

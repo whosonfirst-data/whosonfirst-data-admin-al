@@ -1,0 +1,75 @@
+{
+  "id": 9895008515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05833,39.90639,20.05833,39.90639",
+    "geom:latitude":39.90639,
+    "geom:longitude":20.05833,
+    "gn:population":1333,
+    "iso:country":"AL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 363363: name \"Finiq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/363363"
+        },
+        {
+            "citation":"GeoNames populated place 363363: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/363363"
+        },
+        {
+            "citation":"GeoNames populated place 363363: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/363363"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720857 (Finiq), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632405,
+        85667801,
+        102191581,
+        1108720857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363363
+    },
+    "wof:country":"AL",
+    "wof:geomhash":"28b7f3e477027c3befeb440ec08bf6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632405,
+            "county_id":1108720857,
+            "locality_id":9895008515,
+            "region_id":85667801
+        }
+    ],
+    "wof:id":9895008515,
+    "wof:lastmodified":1795735136,
+    "wof:name":"Finiq",
+    "wof:parent_id":1108720857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-al",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05833,
+    39.90639,
+    20.05833,
+    39.90639
+],
+  "geometry": {"coordinates":[20.05833,39.90639],"type":"Point"}
+}
